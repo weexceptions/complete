@@ -100,7 +100,7 @@ body{
     <p class="pull-right">
     <a href="#">Back to top</a></p>
         <p>
-            &copy; 2017 &middot; StayHealthy &middot; <a target="ContentFrame" href="privacypolicy.htm">Privacy</a> &middot; <a href="#">Terms</a>
+            &copy; 2017 &middot; StayHealthy &middot; <a target="ContentFrame" href="privacypolicy.htm">Privacy</a> &middot; 
         </p>
     </div>
     </div>
