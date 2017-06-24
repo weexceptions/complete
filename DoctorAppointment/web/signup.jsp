@@ -42,7 +42,6 @@ color: red;
             <div class="carousel-caption">
               <h1>Qualified Doctors team.</h1>
               <p>We are having such a good qualified and attentive doctor team they will never let you down.</p>
-              <p><a class="btn btn-lg btn-primary" href="#"  role="button">Sign up today</a></p>
             </div>
           </div>
         </div>
@@ -52,7 +51,6 @@ color: red;
             <div class="carousel-caption">
               <h1>Child care.</h1>
               <p>Our knowledgeable, experienced and friendly day care doctor team totally take care of your child in hospital. </p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
@@ -62,7 +60,7 @@ color: red;
             <div class="carousel-caption">
               <h1>Friendly nature doctor.</h1>
               <p> Doctors friendly nature make patients good  </p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
+              <p><a class="btn btn-lg btn-primary" href="gallery.html" role="button">Browse gallery</a></p>
             </div>
           </div>
         </div>
