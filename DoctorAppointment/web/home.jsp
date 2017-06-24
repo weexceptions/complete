@@ -75,6 +75,9 @@
         <div class="item">
             <img class="sixth-slide" src="Images/vitamin_d.jpg" alt="Sixth slide" width="900" height="200">
         </div>  
+          <div class="item">
+            <img class="seventh-slide" src="Images/carrotjuice.jpg" alt="Seventh slide" width="900" height="200">
+        </div> 
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -124,6 +127,27 @@ Honey is the way to go not just to replace sugar, but to add nutrition and welln
 
        <p style="font-size: medium">Fish oil is oil derived from the tissues of oily fish. Fish oils contain the omega-3 fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA), precursors of certain eicosanoids that are known to reduce inflammation in the body, and have other health benefits, such as treating hypertriglyceridemia, although claims of preventing heart attacks or strokes have not been supported. Fish oil and omega-3 fatty acids have been studied in a wide variety of other conditions, such as clinical depression,anxiety, cancer, and mascular degeneration, yet benefits in these conditions have not been verified.
        </p><a href="fishoil.jsp" target="ContentFrame">Read More</a>
+    </div>
+        </div>
+        <div class="well">
+       <p style="font-weight: bolder ; font-size: large" >  7 reason to drink carrot juice everyday. <p>
+<p style="font-size: medium">
+    Rich in vitamin A, carrot is a sweet vegetable that can be eaten raw in salads and wraps or cooked. It is one of those few vegetables that can be used to make mouthwatering deserts<i>(We are talking about 'Gajar-ka-halwa' and 'Carrot cakes')</i>. Apart from being crunchy and 
+    delicious, this bright orange and red colored vegetable is loaded with vitamin B, vitamin C, vitamin K, biotin , niacin, molybdenum, phosphorus and fiber and has several health benefits. It prevents many diseases, improves your eyesight and is good for your skin and hair. 
+            
+            </p>
+            <details>
+                <summary>Here 7 reasons to drink carrot juice everyday.</summary>
+                <ol>
+                    <li> Heals external wounds quickly.</li>
+                    <li>Improves immunity.</li>
+                    <li>Fights against free radicals.</li>
+                    <li>Improves vision</li>
+                    <li>Lowers cholestrol.</li>
+                    <li>Keeps your heart healthy.</li>
+                    <li>Heals skin disorder.</li>
+              </ol>
+                </details>
     </div>
         </div>
         <div class="container">
