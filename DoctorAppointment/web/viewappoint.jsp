@@ -21,7 +21,7 @@
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <style>
     body{
-        background-image: url('Images/background.jpg');
+        background-image: url('Images/background2.jpg');
     }
     h1{
         font-family: cursive;
