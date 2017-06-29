@@ -14,7 +14,8 @@
         <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
     </head>
-    <body><div class="container text-center" >
+    <body style="background-image:url(Images/background2.jpg)">
+        <div class="container text-center" >
             <h1 class="well text-primary">
                 Patient Detail
                 </h1>
