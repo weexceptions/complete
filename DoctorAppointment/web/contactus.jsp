@@ -37,19 +37,28 @@ function clearField() {
     <body>
         <div class="well container" >
             <img src="Images/infra1.jpg" class="img-responsive" width="100%" height="10%"> <br><br><br>
-            <label class="label-info" style="font-weight: bold; font-size: large">Hospital Address :</label>
-            <p class="text-info" style="font-weight: bold">
-                
-               StayHealthy<br/>
+            <label class="label-info" style="font-weight: bold; font-size: large; position: reletive;">Hospital Address :</label>
+            <p class="text-info" style="font-weight: bold; float:left;">
+		    <label class="label-info" style="font-weight: bold; color:#000;">Head Office</label><br/>
+               StayHealthy Hospital<br/>
+               7/4, Diamond Harbour Road,<br/>
+               Ekbalpur,<br/>
+               Kolkata,<br/>
+               West Bengal-700027.<br/>
+               Contact No.:9876964269.</p>
+        </div>
+	    <p class="text-info" style="font-weight: bold; float: right;">
+               
+               StayHealthy Hospital<br/>
                2nd Floor, Bhandarkar Bhavan<br/>
                Opposite to Borivali Railway Station<br/>
                Near Police Station<br/>
                S.V. Road<br/>
                Borivali(West)<br/>
-               Mumbai - 400092.</p>
-            
-            <p style="font-weight: bold">Contact No.:9876543210;</p>
+               Mumbai - 400092.<br/>
+	       Contact No.:9876543210.</p>
         </div>
+
         <div class="container">
 <div class="col-md-5">
     <div class="form-area">  
