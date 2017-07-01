@@ -45,8 +45,9 @@ function clearField() {
                Ekbalpur,<br/>
                Kolkata,<br/>
                West Bengal-700027.<br/>
-               Contact No.:9876964269.</p>
-        </div>
+		Email: stayhealthyhospital@gmail.com <br/>
+		Contact No.:9876964269.</p>
+        
 	    <p class="text-info" style="font-weight: bold; float: right;">
                
                StayHealthy Hospital<br/>
@@ -62,7 +63,7 @@ function clearField() {
         <div class="container">
 <div class="col-md-5">
     <div class="form-area">  
-        <form role="form" method="post" action="mailto:akshaysoni@gmail.com">
+        <form role="form" method="post" action="mailto:akshaysonie55@gmail.com">
         <br style="clear:both">
         <h3 style="margin-bottom: 25px; text-align: center;">Contact Form</h3>
         	<div class="form-group">
