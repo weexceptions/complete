@@ -45,7 +45,6 @@ function clearField() {
                Ekbalpur,<br/>
                Kolkata,<br/>
                West Bengal-700027.<br/>
-		Email: stayhealthyhospital@gmail.com <br/>
 		Contact No.:9876964269.</p>
         
 	    <p class="text-info" style="font-weight: bold; float: right;">
