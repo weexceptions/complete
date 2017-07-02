@@ -72,7 +72,7 @@ function clearField() {
         		<input type="text" class="form-control" id="email" name="txtemail" placeholder="Email" required>
         	</div>
 		<div class="form-group">
-                	<input type="text" class="form-control" id="mobile" name="txtmobile" placeholder="Mobile Number" required>
+                	<input type="text" class="form-control" id="mobile" name="txtmobile" maxlength="10" placeholder="Mobile Number" required>
 		</div>
 		<div class="form-group">
 			<input type="text" class="form-control" id="subject" name="txtsubject" placeholder="Subject" required>
