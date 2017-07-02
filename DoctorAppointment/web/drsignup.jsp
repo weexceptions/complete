@@ -38,7 +38,7 @@
             
             <div class="form-group">
                 <label for="username"><span class="req">* </span> User name:  <small>This will be your login user name</small> </label> 
-                <input class="form-control" type="text" name="txtpid" id = "txt" onkeyup = "Validate(this)" placeholder="minimum 6 letters" required />  
+                <input class="form-control" type="text" name="txtpid" id = "txt" onkeyup = "Validate(this)" placeholder="In Lowercase only." required />  
                 <div id="errLast"></div>
             </div>    
              <div class="form-group"> 	 
