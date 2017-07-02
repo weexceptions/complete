@@ -39,7 +39,7 @@
                 </div>
                 
             <br><br>
-            <button type="submit" class="btn btn-success" onclick="alert('Your Appointment Successfully Booked.')"> SUBMIT </button>
+            <button type="submit" class="btn btn-success" onclick="alert('Your disease is Added.')"> SUBMIT </button>
         <button type="reset" class="btn btn-warning"> RESET </button></form>
         </div>
     </body>
